@@ -1,0 +1,18 @@
+ - Variação do indice Bovespa (IBOVESPA) ao longo dos anos
+http://www.bmfbovespa.com.br/pt_br/produtos/indices/indices-amplos/indice-ibovespa-ibovespa-estatisticas-historicas.htm
+[PRIORITARY] Fazer um bot pra extrair dados apartir de 1997
+
+
+
+ - Parábola de alguma coisa haver com o natal e perus (Alessandro), variações estatísticamente impossíveis no índice
+
+ - Influência da corrida eleitoral no índice (e variações subsequentes)
+[PROTOTYPE] Listar corridas/vitórias eleitorais que valem menção
+
+ - Influência de crises internacionais no índice
+[PROTOTYPE] Listar crises internacionais que valem menção
+
+ - Comparar o crescimento recente do índice com índices semelhantes em outros país emergentes (BRICS)
+[PROTOTYPE] Listas índices semelhantes em outros países
+
+ - Correlação do índice com S&P 500, ex. petroleo e petrobras, seguros, comodities, fundos de investimento...
